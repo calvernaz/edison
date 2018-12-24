@@ -3,7 +3,7 @@
 	- Intel Edison
 	- Sparkfun Base Block
 
-	![Intel Edison](https://raw.githubusercontent.com/calvernaz/edison/master/IMG_20181224_140922.jpg)
+![Intel Edison](https://raw.githubusercontent.com/calvernaz/edison/master/IMG_20181224_140922.jpg)
 
 # Flash the device
 
